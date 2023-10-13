@@ -1,6 +1,4 @@
 node_modules
 nodemon.json
-package.json
-package-lock.json
 server.cert
 server.key
